@@ -80,7 +80,7 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[LinguaQuest](https://github.com/LinguaQuest-AI-Powered/LinguaQuest-Android-App)** | `Kotlin` • `Compose` • `Gemini AI` • `CameraX` • `MVI` | AI-powered real-world scavenger hunt app featuring live camera object recognition, interactive AI roleplay, and offline Room DB caching. |
+| **[LinguaQuest](https://github.com/LinguaQuest-AI-Powered/LinguaQuest-Android-App)** <br> [🎥 **Video Demo**](https://youtu.be/SQ8NBcGwBbM) | `Kotlin` • `Compose` • `Gemini AI` • `CameraX` • `MVI` | AI-powered real-world scavenger hunt app featuring live camera object recognition, interactive AI roleplay, and offline Room DB caching. |
 | **[Qafilah](https://github.com/Sian1902/Qafilah)** | `Kotlin` • `Compose` • `Shopify GraphQL` • `n8n AI` • `Paymob` | Next-gen AI mobile commerce app with Shopify Storefront GraphQL, Paymob payment checkout, and Agentic AI recommendations. |
 | **[Pip-Boy Weather Station](https://github.com/Alaa7Hany/MAD46_Pip-Boy)** | `Kotlin` • `Compose` • `WorkManager` • `Google Maps` • `Room` | Retro-futuristic weather app featuring live radar, interactive map location picking, and automated background weather alerts. |
 | **[Taier](https://github.com/MetoIsTheKing/Graduation-Project-2025)** | `Flutter` • `BLoC` • `Stripe SDK` • `AI Chatbot` • `Dio` | Smart flight booking graduation project (*Grade: Excellent*) with multi-city route search, dynamic pricing, Stripe payment, and AI chatbot. |
