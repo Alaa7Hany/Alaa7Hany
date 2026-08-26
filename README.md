@@ -11,6 +11,7 @@
   </p>
 
   <p align="center">
+    <a href="https://alaa7hany.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-293241?style=for-the-badge&logo=googlechrome&logoColor=98C1D9" alt="Live Portfolio"/></a>
     <a href="https://linkedin.com/in/alaa-elgebaly"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:elgebaly3laa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
@@ -21,6 +22,7 @@
 
 ### 🚀 About Me
 
+- 🌐 **Interactive Portfolio:** [https://alaa7hany.github.io](https://alaa7hany.github.io)
 - 🎓 **Postgraduate Diploma:** 9-Month Professional Diploma in Mobile Applications Development (Native) from **Information Technology Institute (ITI)**.
 - 🎓 **Degree:** B.Sc. in Computer & Systems Engineering from **Zagazig University** (*Very Good with Honors*).
 - 💡 **Core Specialization:** Modern Android Development (Kotlin, Jetpack Compose, Coroutines & Flow, Room DB, Retrofit, Apollo GraphQL, Clean Architecture & MVI/MVVM).
