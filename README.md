@@ -93,7 +93,6 @@
 
 <div align="center">
   <img src="https://streak-stats.vercel.app/?user=Alaa7Hany&theme=tokyonight&hide_border=true&border_radius=8" height="195" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="195" />
 </div>
 
 ---
