@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Alaa Hany ElGebaly 👋
+  # Hi there, I'm Alaa 👋
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+3&weight=600&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=550&lines=Android+Developer+%7C+Kotlin+%26+Jetpack+Compose;Cross-Platform+Mobile+Engineer+%7C+Flutter+%26+Dart;Clean+Architecture+%E2%80%A2+MVI+%2F+MVVM+%E2%80%A2+Gemini+AI+SDK;ITI+9-Month+Mobile+Applications+Graduate" alt="Typing SVG" />
@@ -92,6 +92,9 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Alaa7Hany&label=Profile%20Views&color=0284c7&style=flat" alt="Profile Views" />
+  </p>
   <img src="https://streak-stats.vercel.app/?user=Alaa7Hany&theme=tokyonight&hide_border=true&border_radius=8" height="195" />
 </div>
 
